@@ -98,6 +98,10 @@ section .container-lg .row .about-text-programming b {
   background-color: #434c5e;
 }
 
+#education {
+  background-color: #434c5e;
+}
+
 section a {
   color: #88c0d0;
 }
